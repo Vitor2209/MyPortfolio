@@ -1,43 +1,84 @@
-# Vitor Dutra Melo — Portfolio
+# 💼 Vitor Dutra Melo — Portfolio
 
-Personal portfolio website for **Vitor Dutra Melo** — Java Backend Developer.  
-Showcases projects, skills and professional experience. Built as a lightweight, responsive static site (HTML / CSS / JS).
+Personal portfolio website for **Vitor Dutra Melo**, **Java Backend Developer** ☕  
+A clean, responsive and lightweight static website showcasing projects, skills and professional experience.
 
 ---
 
 ## 🔎 Overview
 
-This repository contains the source code for Vitor's portfolio website:
+This repository contains the source code for my **personal portfolio website**, designed to present my work in a clear, professional and accessible way.
 
-- Clean, responsive design focused on clarity and readability
-- Sections: About, Projects, Skills, Experience, Contact
-- Simple social links (GitHub, LinkedIn, WhatsApp)
-- Easy to host on static hosting (GitHub Pages, Netlify, Vercel, etc.)
+### ✨ Highlights
+- 🧼 Clean and modern design focused on readability
+- 📱 Fully responsive (desktop, tablet & mobile)
+- 🧠 Clear structure with well-defined sections
+- 🌐 Optimised for static hosting
+- ⚡ Fast loading and lightweight (no frameworks)
 
----
-
-## 🚀 Live demo
-
-If deployed via GitHub Pages or another host, add your site URL here:
-`https://your-username.github.io/your-repo-name/`
-
----
-
-## 🧱 Built with
-
-- Vanilla HTML5
-- CSS (modern layout, responsive)
-- JavaScript (small enhancements / navigation)
-- No framework required — can be used as static site
+### 📂 Main Sections
+- 👤 **About**
+- 🛠️ **Skills**
+- 📁 **Projects**
+- 💼 **Experience**
+- 📬 **Contact**
 
 ---
 
-📞 Contact
-WhatsApp: +44 7785 314195 (link in site)
+## 🚀 Live Demo
 
-GitHub: https://github.com/Vitor2209
+🔗 **Portfolio website:**  
+👉 https://your-username.github.io/your-repo-name/
 
-LinkedIn: https://www.linkedin.com/in/vitordutramelo/
+> *(Replace the link above with your live URL when deployed)*
 
-📜 License
-This project is open source under the MIT License — feel free to reuse and adapt.
+---
+
+## 🧱 Built With
+
+- 🧱 **HTML5** — semantic and accessible markup  
+- 🎨 **CSS3** — modern layout and responsive design  
+- ⚡ **JavaScript (Vanilla)** — small enhancements and navigation logic  
+
+✅ No frameworks required  
+✅ Easy to customise and extend  
+✅ Ideal for static hosting
+
+---
+
+## 📞 Contact & Social Links
+
+Feel free to reach out 👇
+
+- 📱 **WhatsApp:** +44 7785 314195  
+- 🐙 **GitHub:** https://github.com/Vitor2209  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vitordutramelo/
+
+---
+
+## 🌍 Deployment
+
+This project can be easily deployed using:
+
+- ✅ GitHub Pages
+- ✅ Netlify
+- ✅ Vercel
+- ✅ Any static hosting provider
+
+---
+
+## 📜 License
+
+📄 This project is open source and available under the **MIT License**.  
+You are free to **use, modify and adapt** it for your own portfolio or learning purposes.
+
+---
+
+## 🙌 Final Notes
+
+If you find this project useful:
+- ⭐ Consider starring the repository
+- 🔁 Feel free to fork and customise it
+- 💡 Suggestions and improvements are always welcome!
+
+Built with ❤️ by **Vitor Dutra Melo**
