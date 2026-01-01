@@ -30,8 +30,6 @@ This repository contains the source code for my **personal portfolio website**, 
 🔗 **Portfolio website:**  
 👉 https://vitor2209.github.io/MyPortfolio/
 
-> *(Replace the link above with your live URL when deployed)*
-
 ---
 
 ## 🧱 Built With
