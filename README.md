@@ -28,9 +28,7 @@ This repository contains the source code for my **personal portfolio website**, 
 ## 🚀 Live Demo
 
 🔗 **Portfolio website:**  
-👉 https://your-username.github.io/your-repo-name/
-
-> *(Replace the link above with your live URL when deployed)*
+👉 https://vitor2209.github.io/MyPortfolio/
 
 ---
 
@@ -61,7 +59,6 @@ Feel free to reach out 👇
 This project can be easily deployed using:
 
 - ✅ GitHub Pages
-- ✅ Netlify
 - ✅ Vercel
 - ✅ Any static hosting provider
 
