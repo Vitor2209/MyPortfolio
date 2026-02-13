@@ -1,6 +1,6 @@
 # 💼 Vitor Dutra Melo — Portfolio
 
-Personal portfolio website for **Vitor Dutra Melo**, **Java Backend Developer** ☕  
+Personal portfolio website for **Vitor Dutra Melo**, **Backend Developer | Node.js** 🟢 
 A clean, responsive and lightweight static website showcasing projects, skills and professional experience.
 
 ---
